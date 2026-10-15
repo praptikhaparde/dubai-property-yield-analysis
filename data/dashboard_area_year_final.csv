@@ -1,0 +1,161 @@
+area_id,year,sales,price_per_sqft,rent_contracts,rent_per_sqft,yield_pct,area,main_community,display_name
+232,2023,125,1149.6,134,51.9,4.5,Mirdif,Uptown Mirdif,Mirdif
+232,2024,146,1191.1,96,58.8,4.9,Mirdif,Uptown Mirdif,Mirdif
+232,2025,72,1169.2,97,63.9,5.5,Mirdif,Uptown Mirdif,Mirdif
+266,2026,43,1694.9,132,94.8,5.6,Al Satwa,Jumeirah Garden City,Al Satwa
+317,2023,87,2747.8,54,106.0,3.9,Jumeirah First,LA MER,Jumeirah First
+317,2024,59,2758.5,44,111.0,4.0,Jumeirah First,LA MER,Jumeirah First
+317,2025,94,2877.6,71,148.3,5.2,Jumeirah First,LA MER,Jumeirah First
+317,2026,38,3162.3,47,129.7,4.1,Jumeirah First,LA MER,Jumeirah First
+330,2023,2118,1517.3,830,101.3,6.7,Marsa Dubai,Dubai Marina,Dubai Marina
+330,2024,1960,1647.6,934,113.4,6.9,Marsa Dubai,Dubai Marina,Dubai Marina
+330,2025,1694,1845.0,882,115.8,6.3,Marsa Dubai,Dubai Marina,Dubai Marina
+330,2026,862,1959.1,722,105.3,5.4,Marsa Dubai,Dubai Marina,Dubai Marina
+332,2023,195,2294.0,41,142.2,6.2,Zaabeel Second,Business Park,Zaabeel Second
+332,2024,181,2594.3,62,161.6,6.2,Zaabeel Second,Business Park,Zaabeel Second
+332,2025,92,2741.5,58,158.2,5.8,Zaabeel Second,Business Park,Zaabeel Second
+333,2025,44,2114.4,38,82.7,3.9,Madinat Dubai Almelaheyah,Dubai Maritime City,Madinat Dubai Almelaheyah
+334,2023,228,1150.5,291,79.5,6.9,Al Jadaf,Dubai Health Care City Phase 2,Al Jadaf
+334,2024,277,1359.7,289,90.3,6.6,Al Jadaf,Dubai Health Care City Phase 2,Al Jadaf
+334,2025,248,1540.4,338,94.6,6.1,Al Jadaf,Dubai Health Care City Phase 2,Al Jadaf
+334,2026,183,1814.2,269,92.2,5.1,Al Jadaf,Dubai Health Care City Phase 2,Al Jadaf
+335,2023,103,1236.2,42,84.3,6.8,Nad Al Shiba First,Meydan Racecourse Community,Nad Al Shiba First
+335,2024,131,1351.6,65,97.0,7.2,Nad Al Shiba First,Meydan Racecourse Community,Nad Al Shiba First
+335,2025,105,1493.9,84,95.0,6.4,Nad Al Shiba First,Meydan Racecourse Community,Nad Al Shiba First
+335,2026,56,1535.8,70,90.8,5.9,Nad Al Shiba First,Meydan Racecourse Community,Nad Al Shiba First
+343,2023,434,561.3,928,46.5,8.3,Al Warsan First,International City Phase 1,International City
+343,2024,671,588.4,819,54.0,9.2,Al Warsan First,International City Phase 1,International City
+343,2025,790,642.2,831,58.8,9.1,Al Warsan First,International City Phase 1,International City
+343,2026,401,665.6,552,62.8,9.4,Al Warsan First,International City Phase 1,International City
+348,2023,57,658.2,85,54.3,8.2,Al Goze Fourth,Al Khail Towers,Al Goze Fourth
+348,2024,69,768.9,73,58.7,7.6,Al Goze Fourth,Al Khail Towers,Al Goze Fourth
+348,2025,88,828.3,65,70.1,8.5,Al Goze Fourth,Al Khail Towers,Al Goze Fourth
+348,2026,52,925.2,46,79.2,8.6,Al Goze Fourth,Al Khail Towers,Al Goze Fourth
+350,2023,726,1061.6,421,88.8,8.4,Al Thanyah Fifth,DMCC Master Community,Al Thanyah Fifth (incl. JLT)
+350,2024,868,1347.2,360,102.3,7.6,Al Thanyah Fifth,DMCC Master Community,Al Thanyah Fifth (incl. JLT)
+350,2025,711,1414.8,422,106.8,7.5,Al Thanyah Fifth,DMCC Master Community,Al Thanyah Fifth (incl. JLT)
+350,2026,294,1435.8,318,103.7,7.2,Al Thanyah Fifth,DMCC Master Community,Al Thanyah Fifth (incl. JLT)
+351,2023,351,1276.9,174,101.4,7.9,Al Thanyah Third,The Greens,Al Thanyah Third (incl. The Greens)
+351,2024,370,1553.3,190,112.1,7.2,Al Thanyah Third,The Greens,Al Thanyah Third (incl. The Greens)
+351,2025,328,1739.1,186,115.2,6.6,Al Thanyah Third,The Greens,Al Thanyah Third (incl. The Greens)
+351,2026,167,1843.3,109,112.2,6.1,Al Thanyah Third,The Greens,Al Thanyah Third (incl. The Greens)
+364,2023,130,1900.0,43,113.3,6.0,Al Wasl,City Walk,Al Wasl
+364,2024,190,2150.0,41,139.3,6.5,Al Wasl,City Walk,Al Wasl
+364,2025,236,2768.0,68,147.6,5.3,Al Wasl,City Walk,Al Wasl
+364,2026,127,2724.2,56,145.7,5.3,Al Wasl,City Walk,Al Wasl
+366,2023,276,1724.5,35,105.3,6.1,Al Kifaf,Wasl 1,Al Kifaf
+366,2025,80,2025.3,32,113.9,5.6,Al Kifaf,Wasl 1,Al Kifaf
+370,2025,65,2946.9,30,156.3,5.3,Um Suqaim Third,,Um Suqaim Third
+370,2026,62,2703.8,39,134.0,5.0,Um Suqaim Third,,Um Suqaim Third
+390,2023,1224,2041.2,421,127.2,6.2,Burj Khalifa,DownTown Dubai,Downtown Dubai
+390,2024,1143,2311.9,472,139.9,6.1,Burj Khalifa,DownTown Dubai,Downtown Dubai
+390,2025,994,2478.0,478,145.0,5.9,Burj Khalifa,DownTown Dubai,Downtown Dubai
+390,2026,470,2433.5,338,132.0,5.4,Burj Khalifa,DownTown Dubai,Downtown Dubai
+409,2023,382,894.1,372,70.2,7.9,Al Barshaa South Third,Arjan,Arjan
+409,2024,559,1083.7,478,82.7,7.6,Al Barshaa South Third,Arjan,Arjan
+409,2025,687,1288.5,534,93.2,7.2,Al Barshaa South Third,Arjan,Arjan
+409,2026,434,1351.4,493,98.5,7.3,Al Barshaa South Third,Arjan,Arjan
+410,2023,562,1847.9,185,115.3,6.2,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah
+410,2024,462,2233.5,178,134.4,6.0,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah
+410,2025,429,2418.3,204,135.4,5.6,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah
+410,2026,203,2545.2,138,124.2,4.9,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah
+412,2023,693,1728.6,282,120.2,7.0,Al Merkadh,SOBHA HARTLAND,Al Merkadh
+412,2024,1182,1823.6,615,130.7,7.2,Al Merkadh,SOBHA HARTLAND,Al Merkadh
+412,2025,1203,2043.1,751,141.7,6.9,Al Merkadh,SOBHA HARTLAND,Al Merkadh
+412,2026,711,1994.6,537,124.9,6.3,Al Merkadh,SOBHA HARTLAND,Al Merkadh
+414,2023,150,870.0,40,77.6,8.9,Al Barshaa South Second,Dubai Science Park,Al Barshaa South Second
+414,2025,104,1493.8,55,108.5,7.3,Al Barshaa South Second,Dubai Science Park,Al Barshaa South Second
+414,2026,50,1353.7,54,95.7,7.1,Al Barshaa South Second,Dubai Science Park,Al Barshaa South Second
+435,2023,619,710.3,422,61.6,8.7,Al Hebiah Fourth,Dubai Sports City,Dubai Sports City
+435,2024,689,818.1,370,74.4,9.1,Al Hebiah Fourth,Dubai Sports City,Dubai Sports City
+435,2025,727,885.8,426,78.8,8.9,Al Hebiah Fourth,Dubai Sports City,Dubai Sports City
+435,2026,370,992.5,262,83.7,8.4,Al Hebiah Fourth,Dubai Sports City,Dubai Sports City
+437,2025,38,1621.7,35,111.1,6.9,Al Kheeran,Festival City,Al Kheeran
+441,2023,1744,965.8,911,76.8,8.0,Al Barsha South Fourth,Jumeirah Village Circle,JVC (Jumeirah Village Circle)
+441,2024,2186,1109.2,1128,93.4,8.4,Al Barsha South Fourth,Jumeirah Village Circle,JVC (Jumeirah Village Circle)
+441,2025,2646,1269.9,1560,100.6,7.9,Al Barsha South Fourth,Jumeirah Village Circle,JVC (Jumeirah Village Circle)
+441,2026,1448,1281.0,1179,94.0,7.3,Al Barsha South Fourth,Jumeirah Village Circle,JVC (Jumeirah Village Circle)
+442,2023,136,812.5,100,74.9,9.2,Al Barsha South Fifth,Jumeirah Village Triangle,JVT (Jumeirah Village Triangle)
+442,2024,149,947.4,83,90.1,9.5,Al Barsha South Fifth,Jumeirah Village Triangle,JVT (Jumeirah Village Triangle)
+442,2025,274,1170.0,139,96.8,8.3,Al Barsha South Fifth,Jumeirah Village Triangle,JVT (Jumeirah Village Triangle)
+442,2026,137,1359.0,110,95.5,7.0,Al Barsha South Fifth,Jumeirah Village Triangle,JVT (Jumeirah Village Triangle)
+443,2023,38,802.4,160,72.4,9.0,Al Thanyah First,Barsha Heights,Al Thanyah First
+443,2024,42,1042.6,198,89.8,8.6,Al Thanyah First,Barsha Heights,Al Thanyah First
+443,2025,49,1129.0,189,92.1,8.2,Al Thanyah First,Barsha Heights,Al Thanyah First
+444,2023,158,688.3,92,58.9,8.6,Al Hebiah First,Motor City,Al Hebiah First
+444,2024,300,769.6,89,71.2,9.3,Al Hebiah First,Motor City,Al Hebiah First
+444,2025,497,968.6,78,69.0,7.1,Al Hebiah First,Motor City,Al Hebiah First
+444,2026,204,1043.7,62,79.6,7.6,Al Hebiah First,Motor City,Al Hebiah First
+445,2023,663,861.0,777,68.1,7.9,Jabal Ali First,Al Furjan,Jabal Ali First (incl. Al Furjan)
+445,2024,817,912.0,665,81.1,8.9,Jabal Ali First,Al Furjan,Jabal Ali First (incl. Al Furjan)
+445,2025,881,1039.0,817,87.7,8.4,Jabal Ali First,Al Furjan,Jabal Ali First (incl. Al Furjan)
+445,2026,632,1073.3,517,86.7,8.1,Jabal Ali First,Al Furjan,Jabal Ali First (incl. Al Furjan)
+447,2023,667,1888.9,191,114.0,6.0,Al Khairan First,Dubai Creek Harbour,Al Khairan First
+447,2024,561,2192.5,266,130.0,5.9,Al Khairan First,Dubai Creek Harbour,Al Khairan First
+447,2025,699,2298.9,324,134.7,5.9,Al Khairan First,Dubai Creek Harbour,Al Khairan First
+447,2026,440,2308.9,268,127.9,5.5,Al Khairan First,Dubai Creek Harbour,Al Khairan First
+451,2023,157,648.5,109,59.0,9.1,Al Hebiah Fifth,Remraam,Al Hebiah Fifth
+451,2024,289,804.5,87,72.5,9.0,Al Hebiah Fifth,Remraam,Al Hebiah Fifth
+451,2025,224,894.7,86,80.1,8.9,Al Hebiah Fifth,Remraam,Al Hebiah Fifth
+451,2026,84,941.8,64,81.3,8.6,Al Hebiah Fifth,Remraam,Al Hebiah Fifth
+452,2024,144,1322.9,66,112.5,8.5,Al Hebiah Second,Dubai Studio City,Al Hebiah Second
+452,2025,177,1384.7,70,92.5,6.7,Al Hebiah Second,Dubai Studio City,Al Hebiah Second
+452,2026,135,1388.6,108,112.9,8.1,Al Hebiah Second,Dubai Studio City,Al Hebiah Second
+453,2024,141,1000.0,58,72.0,7.2,Saih Shuaib 2,,Saih Shuaib 2
+453,2025,81,981.5,66,76.4,7.8,Saih Shuaib 2,,Saih Shuaib 2
+458,2023,38,787.3,149,55.9,7.1,Dubai Investment Park First,Dubai Investment Park First,Dubai Investment Park First
+458,2024,35,835.2,143,66.1,7.9,Dubai Investment Park First,Dubai Investment Park First,Dubai Investment Park First
+458,2025,48,980.0,132,74.9,7.6,Dubai Investment Park First,Dubai Investment Park First,Dubai Investment Park First
+459,2024,54,570.4,73,66.7,11.7,Dubai Investment Park Second,Dubai Investment Park Second,Dubai Investment Park Second
+459,2025,98,696.5,102,71.9,10.3,Dubai Investment Park Second,Dubai Investment Park Second,Dubai Investment Park Second
+459,2026,80,722.5,63,77.8,10.8,Dubai Investment Park Second,Dubai Investment Park Second,Dubai Investment Park Second
+462,2023,401,776.4,307,57.9,7.5,Madinat Al Mataar,Dubai World Central,Dubai South
+462,2024,447,872.7,316,72.0,8.3,Madinat Al Mataar,Dubai World Central,Dubai South
+462,2025,437,1019.4,302,82.4,8.1,Madinat Al Mataar,Dubai World Central,Dubai South
+462,2026,257,1109.2,169,81.6,7.4,Madinat Al Mataar,Dubai World Central,Dubai South
+463,2025,151,1017.9,47,96.3,9.5,Wadi Al Safa 7,Arabian Ranches II,Wadi Al Safa 7
+464,2023,55,571.1,198,55.5,9.7,Wadi Al Safa 2,Liwan1,Wadi Al Safa 2
+464,2024,196,782.4,203,62.7,8.0,Wadi Al Safa 2,Liwan1,Wadi Al Safa 2
+464,2025,255,931.2,198,73.4,7.9,Wadi Al Safa 2,Liwan1,Wadi Al Safa 2
+464,2026,177,917.8,157,76.6,8.3,Wadi Al Safa 2,Liwan1,Wadi Al Safa 2
+465,2023,114,816.8,105,59.0,7.2,Wadi Al Safa 3,Majan,Majan
+465,2024,198,930.0,106,66.3,7.1,Wadi Al Safa 3,Majan,Majan
+465,2025,363,927.6,126,78.0,8.4,Wadi Al Safa 3,Majan,Majan
+465,2026,315,1147.9,107,76.1,6.6,Wadi Al Safa 3,Majan,Majan
+467,2023,297,650.2,333,52.9,8.1,Wadi Al Safa 5,Dubai Land Residence Complex,Dubai Land Residence Complex
+467,2024,547,736.4,294,65.7,8.9,Wadi Al Safa 5,Dubai Land Residence Complex,Dubai Land Residence Complex
+467,2025,562,828.8,301,68.3,8.2,Wadi Al Safa 5,Dubai Land Residence Complex,Dubai Land Residence Complex
+467,2026,193,842.3,154,68.3,8.1,Wadi Al Safa 5,Dubai Land Residence Complex,Dubai Land Residence Complex
+478,2023,43,1080.9,32,87.0,8.0,Jabal Ali Industrial Second,Down Town Jabal Ali,Jabal Ali Industrial Second
+478,2024,70,1096.8,38,86.1,7.8,Jabal Ali Industrial Second,Down Town Jabal Ali,Jabal Ali Industrial Second
+478,2025,106,1186.9,46,124.3,10.5,Jabal Ali Industrial Second,Down Town Jabal Ali,Jabal Ali Industrial Second
+478,2026,45,1317.5,44,100.8,7.6,Jabal Ali Industrial Second,Down Town Jabal Ali,Jabal Ali Industrial Second
+482,2023,502,1900.0,166,130.8,6.9,Hadaeq Sheikh Mohammed Bin Rashid,Dubai Hills Estate,Hadaeq Sheikh Mohammed Bin Rashid
+482,2024,556,2134.8,191,146.0,6.8,Hadaeq Sheikh Mohammed Bin Rashid,Dubai Hills Estate,Hadaeq Sheikh Mohammed Bin Rashid
+482,2025,586,2187.9,261,147.4,6.7,Hadaeq Sheikh Mohammed Bin Rashid,Dubai Hills Estate,Hadaeq Sheikh Mohammed Bin Rashid
+482,2026,334,2278.7,225,138.2,6.1,Hadaeq Sheikh Mohammed Bin Rashid,Dubai Hills Estate,Hadaeq Sheikh Mohammed Bin Rashid
+483,2023,66,678.0,403,54.4,8.0,Warsan Fourth,International City Phase 3,Warsan Fourth
+483,2024,352,779.2,341,65.0,8.3,Warsan Fourth,International City Phase 3,Warsan Fourth
+483,2025,325,848.8,376,72.1,8.5,Warsan Fourth,International City Phase 3,Warsan Fourth
+483,2026,132,884.1,321,75.0,8.5,Warsan Fourth,International City Phase 3,Warsan Fourth
+484,2023,452,669.2,559,59.8,8.9,Nadd Hessa,Silicon Oasis,Dubai Silicon Oasis
+484,2024,594,775.7,498,69.9,9.0,Nadd Hessa,Silicon Oasis,Dubai Silicon Oasis
+484,2025,730,901.7,493,76.5,8.5,Nadd Hessa,Silicon Oasis,Dubai Silicon Oasis
+484,2026,382,964.8,348,78.2,8.1,Nadd Hessa,Silicon Oasis,Dubai Silicon Oasis
+485,2023,531,961.5,314,63.0,6.5,Me'Aisem First,International Media Production Zone,Dubai Production City (IMPZ)
+485,2024,604,934.3,303,78.8,8.4,Me'Aisem First,International Media Production Zone,Dubai Production City (IMPZ)
+485,2025,582,978.0,289,88.2,9.0,Me'Aisem First,International Media Production Zone,Dubai Production City (IMPZ)
+485,2026,283,1042.7,204,83.8,8.0,Me'Aisem First,International Media Production Zone,Dubai Production City (IMPZ)
+505,2023,59,783.7,31,61.1,7.8,Madinat Hind 4,DAMAC HILLS 2,Madinat Hind 4
+507,2023,224,886.1,129,75.5,8.5,Al Yelayiss 2,TOWN SQUARE,Town Square
+507,2024,340,1028.0,112,86.6,8.4,Al Yelayiss 2,TOWN SQUARE,Town Square
+507,2025,405,1288.2,171,98.9,7.7,Al Yelayiss 2,TOWN SQUARE,Town Square
+507,2026,255,1332.8,150,98.1,7.4,Al Yelayiss 2,TOWN SQUARE,Town Square
+523,2023,432,1052.4,166,82.1,7.8,Al Hebiah Third,DAMAC HILLS,DAMAC Hills
+523,2024,296,1226.6,131,94.4,7.7,Al Hebiah Third,DAMAC HILLS,DAMAC Hills
+523,2025,402,1274.8,170,103.4,8.1,Al Hebiah Third,DAMAC HILLS,DAMAC Hills
+523,2026,149,1328.5,103,98.7,7.4,Al Hebiah Third,DAMAC HILLS,DAMAC Hills
+526,2023,1555,1568.0,713,104.9,6.7,Business Bay,Business Bay,Business Bay
+526,2024,1698,1812.5,725,114.5,6.3,Business Bay,Business Bay,Business Bay
+526,2025,1630,1795.1,884,124.9,7.0,Business Bay,Business Bay,Business Bay
+526,2026,757,1874.4,714,119.9,6.4,Business Bay,Business Bay,Business Bay
